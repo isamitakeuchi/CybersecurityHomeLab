@@ -14,6 +14,7 @@ Project consists of a simple PowerShell script that walks the user through "zero
 
 <h2>Environments Used </h2>
 
+- <b>Oracle VirtualBox</b>
 - <b>Windows 11</b>
 - <b>Ubuntu Server</b>
 
