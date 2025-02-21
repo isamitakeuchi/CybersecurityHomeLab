@@ -3,22 +3,30 @@
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+This home lab is made up of a virtual network through Oracle's VirtualBox. The network is used to simulate a cyber attack into a company's network and how the company's security measures are able to monitor, detect, and mitigate against those attacks. The name of the NAT Network is called 'Project X' where all devices were connected to a domain controller which would assign user permissions through Active Directory. 
 <br />
 
 
-<h2>Languages and Utilities Used</h2>
+<h2>Languages and Tools Used</h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
+- Microsoft Active Directory
+- Wazuh
+- Powershell
+- Postfix
+- NMap
+- Hydra
 
 <h2>Environments Used </h2>
 
 - <b>Oracle VirtualBox</b>
-- <b>Windows 11</b>
+- <b>Windows 11 Enterprise</b>
+- <b>Windows Server 2025</b>
 - <b>Ubuntu Server</b>
+- <b>Ubuntu Desktop 22.04</b>
+- <b>Security Onion</b>
+- <b>Kali Linux</b>
 
-<h2>Program walk-through:</h2>
+<h2>Cyber Attack Simulation:</h2>
 
 <p align="center">
 Launch the utility: <br/>
