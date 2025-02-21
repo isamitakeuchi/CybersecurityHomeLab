@@ -27,7 +27,7 @@ This home lab is made up of several virtual machines in a virtual network throug
 <h2>Cyber Attack Simulation:</h2>
 
 <p align="left" width="100%">
-  Basic Network Topology using Cisco Packet Tracer: <br/>
+  Basic Network Topology using Cisco Packet Tracer:
   <img width="100%" height="400" alt="Image" src="https://github.com/user-attachments/assets/8db4304f-561a-4cc2-9f43-0b59a0d08289" />
   <br/><br/><br/>
 
@@ -35,11 +35,11 @@ This home lab is made up of several virtual machines in a virtual network throug
   <img width="100%" alt="Image" src="https://github.com/user-attachments/assets/e02f7026-dc20-4991-b454-d4f6d4fa1624" />
   <br/><br/><br/>
 
-2. Next, the attacker remotes into the email server through open port 22 (SSH), using the victim's root account, and network IP address: <br/>
+2. Next, the attacker remotes into the email server through open port 22 (SSH), using the victim's root account, and network IP address:
   <img width="100%" alt="Image" src="https://github.com/user-attachments/assets/ea5d48dd-2046-4c5c-9215-77fbbad24170" />
   <br/><br/><br/>
 
-3. Once logged into the company's email server, the attacker can search through their file system to find usernames and passwords of other accounts on the device: <br/>
+3. Once logged into the company's email server, the attacker can search through their file system to find usernames and passwords of other accounts on the device:
   <img width="100%" alt="Image" src="https://github.com/user-attachments/assets/59b474d7-0646-490c-abe2-7231c25e6175" />
   <br/><br/><br/>
 
