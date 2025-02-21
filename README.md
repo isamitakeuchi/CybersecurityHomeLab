@@ -28,13 +28,18 @@ This home lab is made up of a virtual network through Oracle's VirtualBox. The n
 
 <h2>Cyber Attack Simulation:</h2>
 
-<p align="left">
-  Network Topology (Cisco Packet Tracer)
-  <img width="511" alt="Image" src="https://github.com/user-attachments/assets/8db4304f-561a-4cc2-9f43-0b59a0d08289" />
+<p align="left" width="100%">
+  Network Topology (Cisco Packet Tracer): <br/>
+  <img width="100%" height="400" alt="Image" src="https://github.com/user-attachments/assets/8db4304f-561a-4cc2-9f43-0b59a0d08289" />
+  <br/>
 
+  Using Nmap to search for open ports on vulnerable email server and implement brute force attack using Hydra to exploit username and password:  
   <img width="633" alt="Image" src="https://github.com/user-attachments/assets/e02f7026-dc20-4991-b454-d4f6d4fa1624" />
+  <br/>
 
+  Remote into email server through SSH open port: <br/>
   <img width="373" alt="Image" src="https://github.com/user-attachments/assets/ea5d48dd-2046-4c5c-9215-77fbbad24170" />
+  <br/>
 
   <img width="365" alt="Image" src="https://github.com/user-attachments/assets/59b474d7-0646-490c-abe2-7231c25e6175" />
 
