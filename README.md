@@ -28,60 +28,34 @@ This home lab is made up of a virtual network through Oracle's VirtualBox. The n
 
 <h2>Cyber Attack Simulation:</h2>
 
-<img width="511" alt="Image" src="https://github.com/user-attachments/assets/8db4304f-561a-4cc2-9f43-0b59a0d08289" />
+<p align="left">
+  Network Topology (Cisco Packet Tracer)
+  <img width="511" alt="Image" src="https://github.com/user-attachments/assets/8db4304f-561a-4cc2-9f43-0b59a0d08289" />
 
-<img width="633" alt="Image" src="https://github.com/user-attachments/assets/e02f7026-dc20-4991-b454-d4f6d4fa1624" />
+  <img width="633" alt="Image" src="https://github.com/user-attachments/assets/e02f7026-dc20-4991-b454-d4f6d4fa1624" />
 
-<img width="373" alt="Image" src="https://github.com/user-attachments/assets/ea5d48dd-2046-4c5c-9215-77fbbad24170" />
+  <img width="373" alt="Image" src="https://github.com/user-attachments/assets/ea5d48dd-2046-4c5c-9215-77fbbad24170" />
 
-<img width="365" alt="Image" src="https://github.com/user-attachments/assets/59b474d7-0646-490c-abe2-7231c25e6175" />
+  <img width="365" alt="Image" src="https://github.com/user-attachments/assets/59b474d7-0646-490c-abe2-7231c25e6175" />
 
-<img width="694" alt="Image" src="https://github.com/user-attachments/assets/9b7ac898-d622-4d62-a18a-eee748c6e3c8" />
+  <img width="694" alt="Image" src="https://github.com/user-attachments/assets/9b7ac898-d622-4d62-a18a-eee748c6e3c8" />
 
-<img width="390" alt="Image" src="https://github.com/user-attachments/assets/5d639a89-e8ec-41a8-8f03-7af048d6fa7b" />
+  <img width="390" alt="Image" src="https://github.com/user-attachments/assets/5d639a89-e8ec-41a8-8f03-7af048d6fa7b" />
 
-<img width="957" alt="Image" src="https://github.com/user-attachments/assets/f881e8bc-9e47-40cf-b6ca-4bac0b487124" />
+  <img width="957" alt="Image" src="https://github.com/user-attachments/assets/f881e8bc-9e47-40cf-b6ca-4bac0b487124" />
 
-<img width="495" alt="Image" src="https://github.com/user-attachments/assets/aa8ad606-81ec-47db-be93-2d44a09e3990" />
+  <img width="495" alt="Image" src="https://github.com/user-attachments/assets/aa8ad606-81ec-47db-be93-2d44a09e3990" />
 
-<img width="958" alt="Image" src="https://github.com/user-attachments/assets/e8906968-745a-47e9-bef9-fc2dbc73a13a" />
-
-
-
-
-
+  <img width="958" alt="Image" src="https://github.com/user-attachments/assets/e8906968-745a-47e9-bef9-fc2dbc73a13a" />
+</p>
 
 
 
-
-<p align="center">
+<p align="left">
 Launch the utility: <br/>
 <img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
 
 <!--
  ```diff
